@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Nov 26 12:11:27 CLST 2019
+flightrecorder.rules.test-8.0.0-SNAPSHOT-tests.jar>=
+flightrecorder.rules.test-8.0.0-SNAPSHOT.jar>=
+flightrecorder.rules.test-8.0.0-SNAPSHOT.pom>=

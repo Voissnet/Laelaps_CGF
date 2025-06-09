@@ -1,0 +1,11 @@
+.vscode
+target
+*.bak
+*~
+.project
+.settings
+.classpath
+*.patch
+client.dbg0
+client.evt0
+nb-configuration.xml

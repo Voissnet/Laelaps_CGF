@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>net.redvoiss.sms.prototype</groupId>
+  <artifactId>SMSDelivery</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20180730153616</lastUpdated>
+  </versioning>
+</metadata>

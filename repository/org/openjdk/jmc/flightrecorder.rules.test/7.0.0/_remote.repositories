@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Oct 02 12:14:59 CLST 2019
+flightrecorder.rules.test-7.0.0.jar>=
+flightrecorder.rules.test-7.0.0-tests.jar>=
+flightrecorder.rules.test-7.0.0.pom>=

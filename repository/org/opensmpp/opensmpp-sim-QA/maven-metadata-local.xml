@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.opensmpp</groupId>
+  <artifactId>opensmpp-sim-QA</artifactId>
+  <versioning>
+    <versions>
+      <version>3.0.3-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20231219135059</lastUpdated>
+  </versioning>
+</metadata>

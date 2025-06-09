@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Aug 09 16:09:46 CLT 2016
+opensmpp-client-3.0.7-SNAPSHOT.pom>=
+opensmpp-client-3.0.7-SNAPSHOT.jar>=
+opensmpp-client-3.0.7-SNAPSHOT-sources.jar>=

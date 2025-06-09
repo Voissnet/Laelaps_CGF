@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Apr 10 15:30:09 CLST 2018
+opensmpp-core-3.1.13-SNAPSHOT.jar>=
+opensmpp-core-3.1.13-SNAPSHOT-javadoc.jar>=
+opensmpp-core-3.1.13-SNAPSHOT.pom>=
+opensmpp-core-3.1.13-SNAPSHOT-sources.jar>=

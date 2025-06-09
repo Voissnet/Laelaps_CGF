@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.oracle</groupId>
+  <artifactId>osdt_cert</artifactId>
+  <versioning>
+    <release>11.1.0.6.0-Production</release>
+    <versions>
+      <version>12.1.0.1.0</version>
+      <version>11.1.0.6.0-Production</version>
+    </versions>
+    <lastUpdated>20151106180014</lastUpdated>
+  </versioning>
+</metadata>

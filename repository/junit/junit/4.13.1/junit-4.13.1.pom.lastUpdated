@@ -1,0 +1,4 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Thu Mar 14 15:01:08 CLST 2024
+default-http\://repo.maven.apache.org/maven2/.lastUpdated=1710439268961
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact junit\:junit\:pom\:4.13.1 from/to central (http\://repo.maven.apache.org/maven2)\: Failed to transfer file\: http\://repo.maven.apache.org/maven2/junit/junit/4.13.1/junit-4.13.1.pom. Return code is\: 501 , ReasonPhrase\:HTTPS Required.

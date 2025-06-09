@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>net.redvoiss.sms</groupId>
+  <artifactId>laelaps</artifactId>
+  <versioning>
+    <release>1.0.36-FINAL</release>
+    <versions>
+      <version>1.0.33-SNAPSHOT</version>
+      <version>1.0.35-FINAL</version>
+      <version>1.0-FINAL</version>
+      <version>1.36</version>
+      <version>1.0.36-FINAL</version>
+    </versions>
+    <lastUpdated>20220831184536</lastUpdated>
+  </versioning>
+</metadata>

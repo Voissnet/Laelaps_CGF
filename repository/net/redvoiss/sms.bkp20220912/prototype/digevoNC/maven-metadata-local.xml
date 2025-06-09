@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>net.redvoiss.sms.prototype</groupId>
+  <artifactId>digevonc</artifactId>
+  <versioning>
+    <versions>
+      <version>1.10-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20211213174418</lastUpdated>
+  </versioning>
+</metadata>

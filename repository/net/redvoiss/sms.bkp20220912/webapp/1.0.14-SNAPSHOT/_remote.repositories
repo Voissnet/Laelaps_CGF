@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Apr 08 13:54:57 CLST 2019
+webapp-1.0.14-SNAPSHOT.pom>=
+webapp-1.0.14-SNAPSHOT.war>=

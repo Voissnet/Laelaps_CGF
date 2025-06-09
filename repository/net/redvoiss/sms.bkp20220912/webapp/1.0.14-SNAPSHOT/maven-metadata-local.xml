@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>net.redvoiss.sms</groupId>
+  <artifactId>webapp</artifactId>
+  <version>1.0.14-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <localCopy>true</localCopy>
+    </snapshot>
+    <lastUpdated>20190408165457</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>war</extension>
+        <value>1.0.14-SNAPSHOT</value>
+        <updated>20190408165457</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.0.14-SNAPSHOT</value>
+        <updated>20190408165457</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Nov 18 00:24:25 CLST 2021
+api-1.32-FINAL-javadoc.jar>=
+api-1.32-FINAL.jar>=
+api-1.32-FINAL-sources.jar>=
+api-1.32-FINAL.pom>=

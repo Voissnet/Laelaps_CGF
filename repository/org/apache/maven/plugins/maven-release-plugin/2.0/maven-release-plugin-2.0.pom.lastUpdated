@@ -1,0 +1,5 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Thu Mar 20 10:22:35 CLST 2025
+https\://repo.maven.apache.org/maven2/.lastUpdated=1742476955881
+default-http\://repo.maven.apache.org/maven2/.lastUpdated=1742413215266
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.apache.maven.plugins\:maven-release-plugin\:pom\:2.0 from/to central (http\://repo.maven.apache.org/maven2)\: Failed to transfer file\: http\://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-release-plugin/2.0/maven-release-plugin-2.0.pom. Return code is\: 501 , ReasonPhrase\:HTTPS Required.

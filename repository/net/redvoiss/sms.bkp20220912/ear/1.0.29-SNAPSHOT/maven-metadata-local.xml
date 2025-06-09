@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>net.redvoiss.sms</groupId>
+  <artifactId>ear</artifactId>
+  <version>1.0.29-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <localCopy>true</localCopy>
+    </snapshot>
+    <lastUpdated>20180723195328</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>ear</extension>
+        <value>1.0.29-SNAPSHOT</value>
+        <updated>20180723195328</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.0.29-SNAPSHOT</value>
+        <updated>20180723195328</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

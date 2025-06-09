@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Implementation-Title: api
+Implementation-Version: 1.32-SNAPSHOT
+Implementation-Build-Branch: task/db/PROTO-16/removes_element_from_tas
+ ks_queue
+Built-By: Jorge Avila
+Implementation-Build: beece156ff2167358e369323447abda8b2e2337a
+Implementation-Vendor-Id: net.redvoiss.sms
+Created-By: Apache Maven 3.6.2
+Build-Jdk: 1.8.0_231
+Implementation-URL: http://maven.apache.org
+

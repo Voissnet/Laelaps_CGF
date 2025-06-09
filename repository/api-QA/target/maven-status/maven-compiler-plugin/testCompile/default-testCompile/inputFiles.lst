@@ -1,0 +1,16 @@
+C:\Users\cgalvez\.m2\repository\api-QA\src\test\java\net\redvoiss\sms\service\BackgroundExecutorServiceTest.java
+C:\Users\cgalvez\.m2\repository\api-QA\src\test\java\net\redvoiss\sms\dao\DAO1Test.java
+C:\Users\cgalvez\.m2\repository\api-QA\src\test\java\net\redvoiss\sms\smpp\client\MovistarClientTest.java
+C:\Users\cgalvez\.m2\repository\api-QA\src\test\java\net\redvoiss\sms\smpp\client\ClaroClientTest.java
+C:\Users\cgalvez\.m2\repository\api-QA\src\test\java\net\redvoiss\sms\smpp\DBDeliveryInfoSenderTest.java
+C:\Users\cgalvez\.m2\repository\api-QA\src\test\java\net\redvoiss\sms\gateway\gsm\lyric\SwitchTest.java
+C:\Users\cgalvez\.m2\repository\api-QA\src\test\java\net\redvoiss\sms\smpp\DBSimulatorPDUProcessorTest.java
+C:\Users\cgalvez\.m2\repository\api-QA\src\test\java\net\redvoiss\sms\smpp\ShortMessageDBStoreTest.java
+C:\Users\cgalvez\.m2\repository\api-QA\src\test\java\net\redvoiss\sms\AppTest.java
+C:\Users\cgalvez\.m2\repository\api-QA\src\test\java\net\redvoiss\sms\bean\DestinationTest.java
+C:\Users\cgalvez\.m2\repository\api-QA\src\test\java\net\redvoiss\sms\smpp\client\EntelClientTest.java
+C:\Users\cgalvez\.m2\repository\api-QA\src\test\java\net\redvoiss\sms\smpp\client\SMPPClientTest.java
+C:\Users\cgalvez\.m2\repository\api-QA\src\test\java\net\redvoiss\sms\smpp\DBSimulatorPDUProcessorFactoryTest.java
+C:\Users\cgalvez\.m2\repository\api-QA\src\test\java\net\redvoiss\sms\service\task\BackgroundTask.java
+C:\Users\cgalvez\.m2\repository\api-QA\src\test\java\org\smpp\client\SMPPSenderTest.java
+C:\Users\cgalvez\.m2\repository\api-QA\src\test\java\net\redvoiss\sms\dao\DAO0Test.java

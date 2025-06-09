@@ -1,0 +1,4 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Tue Sep 13 14:11:14 GMT-04:00 2022
+default-http\://repo.maven.apache.org/maven2/.lastUpdated=1663092674114
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact net.redvoiss.sms\:manager\:pom\:1.0-FINAL from/to central (http\://repo.maven.apache.org/maven2)\: Failed to transfer file\: http\://repo.maven.apache.org/maven2/net/redvoiss/sms/manager/1.0-FINAL/manager-1.0-FINAL.pom. Return code is\: 501 , ReasonPhrase\:HTTPS Required.

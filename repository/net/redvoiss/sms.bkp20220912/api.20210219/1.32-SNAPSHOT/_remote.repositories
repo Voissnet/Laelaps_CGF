@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jan 30 16:58:15 CLST 2020
+api-1.32-SNAPSHOT.pom>=
+api-1.32-SNAPSHOT.jar>=

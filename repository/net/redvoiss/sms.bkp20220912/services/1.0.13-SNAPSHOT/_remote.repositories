@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Apr 08 13:55:05 CLST 2019
+services-1.0.13-SNAPSHOT.pom>=
+services-1.0.13-SNAPSHOT.war>=

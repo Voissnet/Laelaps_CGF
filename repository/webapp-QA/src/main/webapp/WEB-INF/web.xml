@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app version="2.5" xmlns="http://java.sun.com/xml/ns/javaee" xmlns:xsi="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://java.sun.com/xml/ns/javaee  http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd">
+&gt;
+	<display-name>SMS Web</display-name>
+    <servlet>
+        <servlet-name>ReinitSmsService</servlet-name>
+        <servlet-class>net.redvoiss.sms.reinit.ReinitSmsService</servlet-class>
+        <init-param>
+            <param-name>credencial</param-name>
+            <param-value/>
+        </init-param>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>ReinitSmsService</servlet-name>
+        <url-pattern>/ReinitSmsService</url-pattern>
+    </servlet-mapping>
+    <session-config>
+        <session-timeout>30</session-timeout>
+    </session-config>
+	<security-constraint>
+        <display-name>AppSecurityConstraint</display-name>
+        <web-resource-collection>
+            <web-resource-name>WRCollection</web-resource-name>
+            <url-pattern>/protected/*</url-pattern>
+        </web-resource-collection>
+        <auth-constraint>
+            <role-name>webUser</role-name>
+        </auth-constraint>
+        <user-data-constraint>
+            <transport-guarantee>CONFIDENTIAL</transport-guarantee>
+        </user-data-constraint>
+    </security-constraint>
+	<login-config>
+        <auth-method>FORM</auth-method>
+        <realm-name>web-realm</realm-name>
+        <form-login-config>
+            <form-login-page>/login.jsp</form-login-page>
+            <form-error-page>/login-failure.jsp</form-error-page>
+        </form-login-config>
+    </login-config>
+	<error-page>
+        <error-code>404</error-code>
+        <location>/error.jsp</location>
+    </error-page>
+	<error-page>
+        <error-code>405</error-code>
+        <location>/error.jsp</location>
+    </error-page>
+	<taglib>
+        <taglib-uri>http://ws.lanube.cl/tags</taglib-uri>
+        <taglib-location>/WEB-INF/tlds/Redvoiss.tld</taglib-location>
+    </taglib>
+</web-app>

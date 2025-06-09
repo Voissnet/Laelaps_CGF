@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Aug 31 15:45:15 CLST 2022
+ejb-1.0.13-FINAL.jar>=
+ejb-1.0.13-FINAL.pom>=

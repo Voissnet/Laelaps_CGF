@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.smpp.client.SMPPSenderTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0 sec - in org.smpp.client.SMPPSenderTest

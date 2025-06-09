@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?artifactRepository version='1.1.0'?>
+<artifacts size='1'>
+  <artifact classifier='osgi.bundle' id='org.eclipse.jdt.junit5.runtime' version='1.0.600.v20190610-0439'/>
+</artifacts>

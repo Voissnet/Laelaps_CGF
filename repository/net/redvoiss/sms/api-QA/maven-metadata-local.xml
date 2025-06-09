@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>net.redvoiss.sms</groupId>
+  <artifactId>api-QA</artifactId>
+  <versioning>
+    <release>1.32-FINAL</release>
+    <versions>
+      <version>1.32-FINAL</version>
+    </versions>
+    <lastUpdated>20250213184215</lastUpdated>
+  </versioning>
+</metadata>

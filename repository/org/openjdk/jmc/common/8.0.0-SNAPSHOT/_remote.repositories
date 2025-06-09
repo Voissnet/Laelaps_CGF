@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Nov 26 12:09:48 CLST 2019
+common-8.0.0-SNAPSHOT.jar>=
+common-8.0.0-SNAPSHOT.pom>=
+common-8.0.0-SNAPSHOT-sources.jar>=
+common-8.0.0-SNAPSHOT-javadoc.jar>=

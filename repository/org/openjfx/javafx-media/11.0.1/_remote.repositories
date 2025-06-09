@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Oct 02 12:07:18 CLST 2019
+javafx-media-11.0.1.jar>central=
+javafx-media-11.0.1.pom>central=
+javafx-media-11.0.1-linux.jar>central=
+javafx-media-11.0.1-win.jar>central=
+javafx-media-11.0.1-mac.jar>central=

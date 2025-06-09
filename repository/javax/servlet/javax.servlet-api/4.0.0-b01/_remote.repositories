@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jul 12 16:56:46 CLT 2018
+javax.servlet-api-4.0.0-b01.pom>central=
+javax.servlet-api-4.0.0-b01.jar>central=
+javax.servlet-api-4.0.0-b01-sources.jar>central=

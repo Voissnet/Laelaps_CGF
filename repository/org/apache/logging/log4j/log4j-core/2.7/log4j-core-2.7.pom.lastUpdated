@@ -1,0 +1,4 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Wed Nov 22 17:55:25 CLST 2023
+default-http\://repo.maven.apache.org/maven2/.lastUpdated=1700686525986
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.apache.logging.log4j\:log4j-core\:pom\:2.7 from/to central (http\://repo.maven.apache.org/maven2)\: Failed to transfer file\: http\://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-core/2.7/log4j-core-2.7.pom. Return code is\: 501 , ReasonPhrase\:HTTPS Required.

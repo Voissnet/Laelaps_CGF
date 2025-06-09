@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+                                    
+    
+    
+    
+    
+    
+    
+    
+    <wb-module deploy-name="ear-1.0.29-SNAPSHOT">
+                                                                        
+        
+        
+        
+        
+        
+        
+        
+        <wb-resource deploy-path="/" source-path="/target/m2e-wtp/ear-resources"/>
+                                                                        
+        
+        
+        
+        
+        
+        
+        
+        <wb-resource deploy-path="/" source-path="/src/main/application" tag="defaultRootSource"/>
+        <dependent-module archiveName="ejb-1.0.11-SNAPSHOT.jar" deploy-path="/" handle="module:/resource/ejb/ejb">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="commons-lang3-3.6.jar" deploy-path="/lib" handle="module:/classpath/var/M2_REPO/org/apache/commons/commons-lang3/3.6/commons-lang3-3.6.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="webapp-1.0.12-SNAPSHOT.war" deploy-path="/" handle="module:/resource/webapp/webapp">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="services-1.0.11-SNAPSHOT.war" deploy-path="/" handle="module:/resource/services/services">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="api-1.28-SNAPSHOT.jar" deploy-path="/lib" handle="module:/resource/api/api">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="opensmpp-sim-3.1.12-SNAPSHOT.jar" deploy-path="/lib" handle="module:/classpath/var/M2_REPO/org/opensmpp/opensmpp-sim/3.1.12-SNAPSHOT/opensmpp-sim-3.1.12-SNAPSHOT.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="opensmpp-core-3.1.12-SNAPSHOT.jar" deploy-path="/lib" handle="module:/classpath/var/M2_REPO/org/opensmpp/opensmpp-core/3.1.12-SNAPSHOT/opensmpp-core-3.1.12-SNAPSHOT.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="opensmpp-charset-3.1.12-SNAPSHOT.jar" deploy-path="/lib" handle="module:/classpath/var/M2_REPO/org/opensmpp/opensmpp-charset/3.1.12-SNAPSHOT/opensmpp-charset-3.1.12-SNAPSHOT.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="json-20160810.jar" deploy-path="/lib" handle="module:/classpath/var/M2_REPO/org/json/json/20160810/json-20160810.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="mail-1.5.0-b01.jar" deploy-path="/lib" handle="module:/classpath/var/M2_REPO/javax/mail/mail/1.5.0-b01/mail-1.5.0-b01.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="activation-1.1.jar" deploy-path="/lib" handle="module:/classpath/var/M2_REPO/javax/activation/activation/1.1/activation-1.1.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+                                                                    
+    
+    
+    
+    
+    
+    
+    
+    </wb-module>
+                                
+
+
+
+
+
+
+
+</project-modules>
